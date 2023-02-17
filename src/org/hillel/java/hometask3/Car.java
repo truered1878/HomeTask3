@@ -1,3 +1,5 @@
+package org.hillel.java.hometask3;
+
 public class Car {
 
     private void startElectricity() {
